@@ -85,6 +85,14 @@ The complete Arduino source code for the robot is available in:
 
 `4WD_FINISHED.ino`
 
-## Project Images and Circuit
+## Project Prototype
 
-Photos of the implemented robot and the final circuit schematic are included in this repository.
+The following image shows the final implemented 4WD robotic platform.
+
+![Arduino Uno-Based 4WD Intelligent Robot](images/robot-prototype.png)
+
+## Circuit Diagram
+
+The final circuit diagram of the implemented system is shown below.
+
+![4WD Intelligent Robot Circuit Diagram](images/circuit-diagram.png)
